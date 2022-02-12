@@ -1,4 +1,6 @@
-### Hi there 👋
+### Front-end developert
+
+JavaScript & react 
 
 <!--
 **master1lan/master1lan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
