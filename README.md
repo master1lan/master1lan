@@ -3,6 +3,8 @@
 JavaScript & react 
 仿medium论坛：github.com/master1lan/myBlob
 
+前端异常监控平台:github.com/jiqili/F-monitor
+
 <!--
 **master1lan/master1lan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
