@@ -5,6 +5,8 @@ JavaScript & react
 
 前端异常监控平台:github.com/jiqili/F-monitor
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=master1lan)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **master1lan/master1lan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
